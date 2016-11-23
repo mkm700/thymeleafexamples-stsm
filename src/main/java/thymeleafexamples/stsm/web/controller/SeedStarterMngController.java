@@ -43,7 +43,6 @@ import thymeleafexamples.stsm.business.services.VarietyService;
 @Controller
 public class SeedStarterMngController {
 
-
     @Autowired
     private VarietyService varietyService;
     
